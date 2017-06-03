@@ -11,3 +11,11 @@ A bit of user authentication is provided (master_user==>root,password==>knight)
 Quite a crude implementation for beginners to understand.
 
 Feel free to modify and test!
+
+/*INPUT ==> file
+
+line1==>no_of_subjects
+line2==>student_name
+line3==>subject_marks (',' separated)
+
+*/
