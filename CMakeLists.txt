@@ -1,0 +1,12 @@
+cmake_minimum_required( VERSION 3.6)
+#cmake_policy
+project(STUDENTS)
+include_directories(".")
+link_directories(".")
+file(GLOB SRCS "*.c" *.h)
+configure_file(input.txt input.txt COPYONLY)
+configure_file(.adminfile.txt .adminfile.txt COPYONLY)
+configure_file(.student.dat .student.dat COPYONLY)
+add_executable(STUDENTS ${SRCS} ${HDRS})
+set_property( DIRECTORY PROPERTY VS_STARTUP_PROJECT "STUDENTS" )
+#target_link_libraries(STUDENTS ncurses)

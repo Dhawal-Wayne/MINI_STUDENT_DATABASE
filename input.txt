@@ -1,0 +1,32 @@
+6
+Biology,Java,Management Science,Personality,Maths,Chemistry
+mary kumari
+66,77,96,91,87,72
+linda
+10,100,100,100,100,100
+barbara
+81,-54,55,98,71,72
+100,100,100,100,100,100
+amy
+64,51,93,100,80,80
+alice
+94,99,94,97,85,75
+agnes
+63,79,95,93,80,80
+ada
+76,46,74,92,75,89
+abigail
+99,66,49,92,83,88
+abby
+92,76,61,92,86,74
+abbie
+56,54,51,94,71,84
+abbey
+51,61,50,94,73,80
+aaron
+76,68,48,94,81,75
+aaden
+aarav
+aaron
+abel
+abdiel
